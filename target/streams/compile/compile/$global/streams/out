@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/jweezy/Documents/Code/PracticeScala/exercisetests/src/main/scala/Main.scala:64:21: ')' expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    for(i <- until b.length) println(i + ":" + b(i))[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/jweezy/Documents/Code/PracticeScala/exercisetests/src/main/scala/Main.scala:64:52: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m    for(i <- until b.length) println(i + ":" + b(i))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
