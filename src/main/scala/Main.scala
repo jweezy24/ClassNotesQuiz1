@@ -62,9 +62,9 @@ object Main extends App {
 
     //3.3
     // Iterate through array
-    //for(i <- 0 until b.length) println(i + ":" + b(i))
+    for(i <- 0 until b.length) println(i + ":" + b(i))
     // prints values 0-9
-    //for(i <- 0 until 10) println(i)
+    for(i <- 0 until 10) println(i)
     //counts to 9 by twos
     for(i <- 0 until (10,2)) println(i)
     //prints the elements of the array b
